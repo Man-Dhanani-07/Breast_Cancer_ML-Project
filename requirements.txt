@@ -1,6 +1,2 @@
-pandas
-numpy
-flask
-scikit-learn
-matplotlib
-pickle
+Flask==2.0.2
+requests==2.26.0
